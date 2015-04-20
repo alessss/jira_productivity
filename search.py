@@ -1,5 +1,3 @@
-__author__ = 'a_makarevich'
-
 import requests, json, datetime
 from datetime import timedelta, date
 
